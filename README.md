@@ -34,7 +34,6 @@ GuessNumber is a basic game where the app generates a random number between 1 an
 - `activity_main.xml` - user interface layout
 
 ## Author
-<img width="1166" height="730" alt="Screenshot 2026-04-22 at 20 38 24" src="https://github.com/user-attachments/assets/d1a6375c-fb2b-4a98-bbbe-2751487c4685" />
 
 <img width="1340" height="767" alt="Screenshot 2026-04-22 at 23 24 00" src="https://github.com/user-attachments/assets/9bf0f593-b022-4f12-9d2d-098124287b31" />
 
